@@ -1,0 +1,399 @@
+@media (max-width:1399px){
+    .navbar-brand {
+        font-size: 30px;
+    }
+    h1 {
+        font-size: 55px;
+        line-height: 60px;
+    }
+    header {
+        padding: 60px 0 30px;
+    }
+    h2 {
+        font-size: 40px;
+        line-height: 50px;
+    }
+    .btn-explore {
+        padding: 16px 21px;
+
+        font-size: 18px;
+        line-height: 21px;
+    }
+    .featureSection2 {
+        padding: 35px 0;
+    }
+    .Block h3 {
+        font-size: 50px;
+        line-height: 46px;
+    }
+    .Block {
+        max-width: 292px;
+        padding: 40px 32px;
+        transform: translate(-117px,-95px);
+    }
+
+    .featureSection2 h2 {
+        font-size: 40px;
+        line-height: 50px;
+        border-left: 8px solid #FD646F;
+        padding-left: 13px;
+    }
+
+    .featureSection2 p {
+        font-size: 13px;
+        line-height: 24px;
+    }
+    .card-body {
+        padding: 20px;
+    }
+    .factTitle {
+        margin-bottom: 60px;
+    }
+    .factTitle h2 {
+        font-size: 40px;
+        line-height: 50px;
+    }
+    .fact span {
+        font-size: 16px;
+    }
+    .fact h3 {
+        font-size: 40px;
+        line-height: 50px;
+    }
+    .factSection {
+        margin-bottom: 75px;
+    }
+    .sponsorSection {
+        margin-bottom: 60px;
+    }
+    .sponsorTitle {
+        margin-bottom: 50px;
+    }
+    footer {
+        margin-bottom: 100px;
+    }
+    footer p {
+        padding: 33px 300px;
+        font-size: 15px;
+    }
+}
+
+@media (max-width:1199px){
+
+    header {
+        padding: 50px 0 25px;
+    }
+    .nav-link {
+        padding: 0 25px !important;
+    }
+    h1 {
+        font-size: 45px;
+        line-height: 55px;
+    }
+    p {
+        font-size: 15px;}
+        .featureSection {
+            padding: 70px 0;
+        }
+        
+        .featureSection2 h2 {
+            font-size: 34px;
+            line-height: 40px;
+            border-left: 7px solid #FD646F;
+            padding-left: 10px;
+        }
+       
+
+        .featureImage{
+
+        }
+.featureText {
+    padding: 30px;
+}
+.btn-explore {
+    padding: 13px 24px;
+    
+    font-size: 15px;
+    line-height: 18px;
+ 
+}
+
+.featureSection2 p {
+    font-size: 12px;
+    line-height: 22px;
+}
+.card {
+
+    margin-bottom: 10px;
+}
+.card-body {
+    padding: 9px;
+}
+.fact {
+    margin-left: 40px;
+    margin-right: 15px;
+    padding: 20px 0px 20px;
+}
+.fact h3 {
+    font-size: 35px;
+    line-height: 45px;
+}
+
+.sponsorTitle h2 {
+    font-size: 35px;
+    line-height: 45px;
+}
+
+.sponsorSection {
+    margin-bottom: 50px;
+}
+.sponsorTitle {
+    margin-bottom: 40px;
+}
+
+footer p {
+    padding: 25px 295px;
+    font-size: 10px;
+}
+
+}
+
+@media(max-width:991px){
+    h1 {
+        font-size: 40px;
+        line-height: 50px;
+    }
+    .navbar-brand {
+        font-size: 25px;
+    }
+    .featureSection {
+        padding: 65px 0;
+    }
+    h2 {
+        font-size: 30px;
+        line-height: 40px;
+    }
+    .featureSection p {
+        font-size: 11px;
+    }
+    .btn-explore {
+        padding: 8px 18px;
+        font-size: 10px;
+        line-height: 13px;
+    }
+    .featureText {
+        padding: 25px;
+    }
+
+    .featureSection2 {
+        padding: 30px 0;
+    }
+    .featureSection2 h2 {
+        font-size: 21px;
+        line-height: 23px;
+        padding-left: 10px;
+    }
+    .featureSection2 p {
+        font-size: 10px;
+        line-height: 18px;
+        margin-bottom: 2px;
+    }
+    .Block {
+        max-width: 202px;
+        padding: 21px 24px;
+        transform: translate(-75px,-50px);
+    }
+    .Block h3 {
+        font-size: 32px;
+        line-height: 27px;
+    }
+    .Block span {
+        font-size: 18px;
+        line-height: 20px;
+    }
+    .card-title {
+        font-size: 16px;
+        line-height: 23px;
+    }
+
+    .factTitle {
+        margin-bottom: 50px;
+    }
+    .fact {
+        margin-left: 15px;
+        margin-right: 0px;
+        padding: 20px 0px 20px;
+    }
+    .fact h3 {
+        font-size: 30px;
+        line-height: 35px;
+    }
+    .fact span {
+        font-size: 13px;
+    }
+
+    .sponsorTitle h2 {
+        font-size: 30px;
+        line-height: 40px;
+    }
+
+    .sponsorTitle p {
+        font-size: 14px;
+    }
+
+    footer p {
+        padding: 15px 185px;
+        font-size: 10px;
+    }
+
+
+}
+
+
+@media(max-width:767px){
+    header {
+        padding: 45px 0 20px;
+    }
+    h1 {
+        font-size: 35px;
+        line-height: 45px;
+    }
+    p {
+        font-size: 14px;
+    }
+    .btn-explore {
+        padding: 10px 20px;
+        font-size: 12px;
+        line-height: 15px;
+    }
+    .featureSection {
+        padding: 40px 0;
+    }
+    .featureSection p {
+        font-size: 9px;
+        line-height: 15px;
+    }
+    h2 {
+        font-size: 25px;
+        line-height: 34px;
+    }
+    .btn-explore {
+        padding: 8px 14px;
+        font-size: 11px;
+        line-height: 14px;
+    }
+
+    .Block {
+        max-width: 150px;
+        padding: 12px 10px;
+        transform: translate(-60px,-40px);
+    }
+
+    .Block h3 {
+        font-size: 25px;
+        line-height: 18px;
+    }
+    .Block span {
+        font-size: 14px;
+        line-height: 19px;
+    }
+    .featureSection2 {
+        padding: 25px 0;
+    }
+
+    .featureSection2 h2 {
+        font-size: 18px;
+        line-height: 20px;
+        padding-left: 9px;
+    }
+
+    .featureInfo {
+        padding-right: 10px !important;
+    }
+
+    .factSection {
+        margin-bottom: 50px;
+    }
+    .fact {
+        margin-left: 0px;
+        margin-right: 0px;
+        padding: 20px 0px 20px;
+    }
+
+
+    .fact h3 {
+        font-size: 25px;
+        line-height: 21px;
+    }
+    .fact span {
+        font-size: 11px;
+    }
+    .factTitle h2 {
+        font-size: 30px;
+        line-height: 40px;
+    }
+
+    .sponsorTitle {
+        margin-bottom: 30px;
+    }
+    .sponsorSection {
+        margin-bottom: 50px;
+    }
+    .sponsor {
+        padding: 25px 10px 25px;
+    }
+    .sponsorTitle h2 {
+        font-size: 25px;
+        line-height: 40px;
+    }
+
+    footer p {
+        padding: 8px 90px;
+        font-size: 10px;
+    }
+}
+
+@media(max-width:575px){
+    header {
+        padding: 35px 0 15px;
+    }
+    h1 {
+        font-size: 30px;
+        line-height: 37px;
+    }
+    .Block {
+        max-width: 150px;
+        padding: 12px 10px;
+        transform: translate(-60px,-40px);
+    }
+
+    .Block h3 {
+        font-size: 25px;
+        line-height: 18px;
+    }
+    .Block span {
+        font-size: 14px;
+        line-height: 19px;
+    }
+    .featureSection2 {
+        padding: 25px 0;
+    }
+
+    .featureSection2 h2 {
+        font-size: 18px;
+        line-height: 20px;
+        padding-left: 9px;
+    }
+
+    .featureInfo {
+        padding-right: 10px !important;
+    }
+    footer p {
+        padding: 8px 53px;
+        font-size: 10px;
+    }
+
+    .fact span {
+        font-size: 10px;
+    }
+}
